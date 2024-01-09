@@ -9,8 +9,6 @@ models/
 __pycache__
 .ipynb_checkpoints
 
-
-
 # # Include specific files within the ignored folders
 !r2/**/train.csv
 !r2/**/annotation.json
