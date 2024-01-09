@@ -12,13 +12,13 @@ __pycache__
 
 
 # # Include specific files within the ignored folders
-# !r2/**/train.csv
-# !r2/**/annotation.json
-# !r5/**/train.csv
-# !r5/**/annotation.json
-# !agnews/**/train.csv
-# !agnews/**/annotation.json
-# !dbpedia/**/train.csv
-# !dbpedia/**/annotation.json
-# !yahoo/**/train.csv
-# !yahoo/**/annotation.json
+!r2/**/train.csv
+!r2/**/annotation.json
+!r5/**/train.csv
+!r5/**/annotation.json
+!agnews/**/train.csv
+!agnews/**/annotation.json
+!dbpedia/**/train.csv
+!dbpedia/**/annotation.json
+!yahoo/**/train.csv
+!yahoo/**/annotation.json
